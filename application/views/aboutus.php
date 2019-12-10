@@ -1,6 +1,5 @@
 <div class="container">
-	<h3><i class="glyphicon glyphicon-option-vertical"> </i>About
-		Us</h3>
+	<h3><i class="glyphicon glyphicon-cloud"></i>  	About Us</h3>
 		<br>
 		<div class="row text-center">
 			<div class="col-sm-3 col-xs-12">

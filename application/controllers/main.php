@@ -5,14 +5,14 @@ class Main extends Public_Controller {
 		parent::__construct();
 	}
 	public function index() {
-		$data['title'] = 'Home';
+		$data['title'] = 'Welcome to XtremeATV';
 		$this->load->view('template/header', $data);
 		$this->load->view('template/navbar');
 		$this->load->view('template/footer');
 	}
 
 	public function contactus() {
-		$data['title'] = 'Home';
+		$data['title'] = 'Welcome to XtremeATV';
 		$this->load->view('template/header', $data);
 		$this->load->view('template/navbar');
 		$this->load->view('aboutus');
